@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# wingIDE project
+*.wpr
+*.wpu
+
+# PX8
+output.log
